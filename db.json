@@ -1,1 +1,9 @@
 
+{
+  "employeeOfTheMonth": {
+    "name":"Lalitha Vadavalli",
+    "position": "Developer",
+    "image":"https://avatars.githubusercontent.com/u/58090261?v=4",
+    "description":"Developer and Content Writer"
+  }
+}
